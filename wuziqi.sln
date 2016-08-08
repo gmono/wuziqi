@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core", "core\core.csproj", "{B62F661A-B87E-4860-B9EC-60B78E51AEA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Displayer", "Displayer\Displayer.csproj", "{074ECECC-6357-4472-A904-95490E437527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTureAi", "TestTureAi\TestTureAi.csproj", "{0EE167FA-7630-4005-A7A2-A800F364ABF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62F661A-B87E-4860-B9EC-60B78E51AEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62F661A-B87E-4860-B9EC-60B78E51AEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62F661A-B87E-4860-B9EC-60B78E51AEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62F661A-B87E-4860-B9EC-60B78E51AEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074ECECC-6357-4472-A904-95490E437527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074ECECC-6357-4472-A904-95490E437527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074ECECC-6357-4472-A904-95490E437527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074ECECC-6357-4472-A904-95490E437527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE167FA-7630-4005-A7A2-A800F364ABF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE167FA-7630-4005-A7A2-A800F364ABF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE167FA-7630-4005-A7A2-A800F364ABF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE167FA-7630-4005-A7A2-A800F364ABF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
